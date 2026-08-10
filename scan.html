@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Scan Me - Download - FlyBot Egypt</title>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body {
+    background:#0a0a0a; min-height:100vh;
+    display:flex; align-items:center; justify-content:center;
+    font-family:-apple-system, 'Segoe UI', sans-serif;
+  }
+  .wrap { text-align:center; padding:40px; }
+  .logo { color:#e8d48b; font-size:44px; font-weight:800; letter-spacing:.18em; margin-bottom:8px; }
+  .sub { color:#a0a0a0; font-size:20px; letter-spacing:.08em; margin-bottom:36px; text-transform:uppercase; }
+  .qr-box {
+    background:#fff; border-radius:28px; padding:24px;
+    display:inline-block; box-shadow:0 0 90px rgba(201,168,76,.35);
+  }
+  .qr-box img { width:min(70vw, 380px); height:auto; display:block; border-radius:12px; }
+  .url {
+    margin-top:36px; color:#c9a84c; font-size:22px; letter-spacing:.04em;
+    font-family:ui-monospace, monospace; word-break:break-all;
+  }
+  .hint { margin-top:14px; color:#666; font-size:15px; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="logo">FLYBOT EGYPT</div>
+    <div class="sub">Scan to download full-page photo</div>
+    <div class="qr-box">
+      <img src="assets/preview/scan-download-qr.png" alt="QR code - download full page photo">
+    </div>
+    <div class="url">http://192.168.1.6:9999/download.html</div>
+    <div class="hint">Same WiFi required · Opens the photo page → tap gold button to save</div>
+  </div>
+</body>
+</html>

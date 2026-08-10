@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  flybot-web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: flybot-egypt
+    ports:
+      - "8888:80"
+    restart: unless-stopped
+    environment:
+      - NODE_ENV=production
