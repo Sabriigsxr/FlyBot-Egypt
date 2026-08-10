@@ -86,6 +86,8 @@ FLYBOT/
 
 ## 🎯 Community Ideas (built into the brand playbook)
 
+> *Aerial dreams, engineered by GSXR-404.*
+
 - 📸 **Photo Contest** — best aerial shot wins a prize
 - 🛩️ **DIY Challenge** — design your own RC plane / drone
 - 💬 **Caption Contest** — fun + engagement
@@ -100,12 +102,23 @@ FLYBOT/
 - [ ] Instagram feed integration
 - [ ] Live drone telemetry demos
 
-## 👤 Author
+## 👾 Meet the Author
 
-**Ahmed Sabry (GSXR-404)** — AI researcher · cybersecurity ninja · freight-tech builder
+**AHMED SABRY — aka GSXR-404** · AI researcher · cybersecurity ninja · freight-tech builder
 
-- GitHub: [@Sabriigsxr](https://github.com/Sabriigsxr)
-- Brand: [FlyBot Egypt](https://instagram.com/flybot.eg)
+When I'm not flying drones, I'm training local LLMs, hunting vulnerabilities (ethically 🥷)
+and automating freight tech at scale. FlyBot Egypt is my runway into the sky.
+
+```
+PLAYER 1 — AHMED SABRY (GSXR-404)
+CLASS  : AI Researcher / Cybersecurity Ninja
+QUIRK  : builds smart logistics, hacks things for good,
+         and levels up the web — one repo at a time
+XP     : ████████████████░░ always grinding
+```
+
+> 🌐 [github.com/Sabriigsxr](https://github.com/Sabriigsxr) · 📸 [@flybot.eg](https://instagram.com/flybot.eg)
+> 💬 Open to collabs: aerial tech, AI, security, freight — let's build.
 
 ## 📄 License
 
